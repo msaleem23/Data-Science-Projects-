@@ -41,6 +41,5 @@ This project was developed for OilyGiant, a mining company, to determine the opt
 - Recommended the region with the highest potential return on investment.
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
+1. Clone the repository
+
